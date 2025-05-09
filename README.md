@@ -67,3 +67,11 @@ The training data can be accessed [here](https://github.com/IpshitaBiswas/Retail
 
 * **Training R² Score**: High (indicative of good model fit)
 * **Testing R² Score**: Slightly lower (evaluates generalization ability)
+
+## Craft Notes
+
+You can read the full notes here: [View Craft Notes](https://things-travel-bah.craft.me/sjY8ina0o2BmC9)
+
+Scan this to open the notes on your phone:
+
+![Craft Notes QR](assets/BigMart_Sales_Prediction_Notes.png)
