@@ -1,7 +1,3 @@
-Here's a clean, professional `README.md` for your **Retail Sales Predictor (BigMart Sales Prediction)** project, with no emojis:
-
----
-
 # Retail Sales Predictor
 
 This project focuses on predicting retail item sales using machine learning techniques. The dataset is based on sales data from various outlets of a retail chain. The goal is to predict `Item_Outlet_Sales`, which represents the sales of products at different stores.
